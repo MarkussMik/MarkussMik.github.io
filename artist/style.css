@@ -1,18 +1,19 @@
-h1{
-    
-    color: rgb(41, 127, 98);
+body{
+    color: aliceblue;
+}
 
-}   
+h1{  
+    text-align: center;
+} 
 
 #a1{
-
    text-align: center;
-color: black;
-
 }
 
 img{
+width: 30%; position: static; padding: 0% 35.5%;
+}
 
-width: 50%;
+iframe{
 
 }
