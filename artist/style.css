@@ -1,3 +1,8 @@
+.haha{
+    align-items: center;
+    text-align: center;
+}
+
 body{
     color: aliceblue;
 }
@@ -11,9 +16,7 @@ h1{
 }
 
 img{
-width: 30%; position: static; padding: 0% 35.5%;
-}
-
-iframe{
-
+width: 30%; 
+position: static; 
+padding: 0% 35.5%;
 }
